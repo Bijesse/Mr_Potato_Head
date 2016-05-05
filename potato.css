@@ -19,12 +19,8 @@ h1 {
 /* Insert CSS for body below this line*/
 #body { top: 28px; left: 68px; z-index: 0;}
 /* Insert CSS for arms below this line*/
-<<<<<<< HEAD
 #arms_image{ top:185px; left:20px;}
-
-=======
 #earrings{top: 30px; left: 50px;}
->>>>>>> 918ffc8afa24bd39c4be685535698e979b6a80c6
 /* Insert CSS for ears below this line*/
 
 /* Insert CSS for eyes below this line*/
@@ -47,7 +43,7 @@ h1 {
 /* Insert CSS for shoes below this line*/
 
 /* Insert CSS for cane below this line*/
-#cane { top: 200px; left: -10px; }	
+#cane { top: 200px; left: -10px; }
 /* Insert CSS for earrings below this line*/
 
 /* Insert CSS for arms below this line*/
