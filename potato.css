@@ -44,6 +44,7 @@ h1 {
 
 /* Insert CSS for shoes below this line*/
 
+  #shoes_image { right: 70px; bottom: 106px; }
 /* Insert CSS for cane below this line*/
 #cane { top: 200px; left: -10px; }
 /* Insert CSS for earrings below this line*/
