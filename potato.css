@@ -17,7 +17,7 @@ h1 {
 }
 
 /* Insert CSS for body below this line*/
-#body { top: 28px; left: 68px; }
+#body { top: 28px; left: 68px; z-index: 0;}
 /* Insert CSS for arms below this line*/
 
 /* Insert CSS for ears below this line*/
@@ -29,6 +29,7 @@ h1 {
 /* Insert CSS for nose below this line*/
 
 /* Insert CSS for eyebrows below this line*/
+
 
 /* Insert CSS for glasses below this line*/
 
@@ -49,3 +50,4 @@ h1 {
 /* Insert CSS for hatflower below this line*/
 
 /* Insert CSS for boosters below this line*/
+#boosters{ bottom: 50px; left: 50px;  }
