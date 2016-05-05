@@ -24,7 +24,11 @@ h1 {
 /* Insert CSS for ears below this line*/
 
 /* Insert CSS for eyes below this line*/
+<<<<<<< HEAD
 #eyes_image {top : 30px; left: 150px;}
+=======
+#eyes_image { top: 60px; left: 130px; }
+>>>>>>> c399ed97921731658a2dfee0a61e75e237cd6bd7
 /* Insert CSS for mouth below this line*/
 
 /* Insert CSS for nose below this line*/
