@@ -26,7 +26,11 @@ h1 {
 /* Insert CSS for eyes below this line*/
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image{
+  position: absolute;
+  right: 125px;
+  bottom: 250px;
+}
 /* Insert CSS for nose below this line*/
 
 /* Insert CSS for eyebrows below this line*/
