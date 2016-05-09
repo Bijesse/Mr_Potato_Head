@@ -44,7 +44,10 @@ h1 {
 /* Insert CSS for cane below this line*/
 
 /* Insert CSS for earrings below this line*/
-
+#earrings{
+  left: 56px;
+  top: 104px;
+}
 /* Insert CSS for arms below this line*/
 
 /* Insert CSS for hatflower below this line*/
