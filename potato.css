@@ -2,7 +2,6 @@ h1 {
   text-align: center;
 }
 
-
 #potato {
   position: relative;
   width: 367px;
@@ -18,12 +17,15 @@ h1 {
 }
 
 /* Insert CSS for body below this line*/
-#body { top: 28px; left: 68px; }
+#body { top: 28px; left: 68px; z-index: 0;}
 /* Insert CSS for arms below this line*/
-
+#arms_image{ top:185px; left:20px;}
+#earrings{top: 30px; left: 50px;}
 /* Insert CSS for ears below this line*/
 
 /* Insert CSS for eyes below this line*/
+
+#eyes_image { top: 60px; left: 130px; }
 
 /* Insert CSS for mouth below this line*/
 
@@ -31,8 +33,9 @@ h1 {
 
 /* Insert CSS for eyebrows below this line*/
 
-/* Insert CSS for glasses below this line*/
 
+/* Insert CSS for glasses below this line*/
+#glasses_image{top:68px; left:100px;}
 /* Insert CSS for hat below this line*/
 
 /* Insert CSS for arms below this line*/
@@ -41,12 +44,14 @@ h1 {
 
 /* Insert CSS for shoes below this line*/
 
+#shoes_image{ top: 299px; left: 45px;}
 /* Insert CSS for cane below this line*/
-
+#cane { top: 200px; left: -10px; }
 /* Insert CSS for earrings below this line*/
 
 /* Insert CSS for arms below this line*/
 
 /* Insert CSS for hatflower below this line*/
-
+#hatflower { top:-28px; left:65px;}
 /* Insert CSS for boosters below this line*/
+#boosters{ bottom: 50px; left: 50px;  }
